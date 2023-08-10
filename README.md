@@ -19,3 +19,8 @@ Ensuring that this site could be easily accesible without posing problems to use
 From making the font size a rem to ensure scalability to using background colours on nav links to ensure users knew where their cursors were on was important.
 
 Overall, i have learned how to decompose problems and obstacles into smaller tasks to make things easier.
+
+## List of resources used
+- Bootstrap Navbar and Footer
+- SVG camera logo and hamburger menu
+
