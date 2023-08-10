@@ -35,14 +35,13 @@ p,li a, label {
 }
 
 .navbar-toggler {
-    background-color: #000000; /* Set your desired background color */
-    /* border-color: #ff5733; Set border color to match the background color */
+    background-color: var(--my-primary); 
+    border-color: #ff5733; 
 }
 
-/* .navbar-toggler-icon {
-    background-image: url("./burger-menu-right-svgrepo-com\ \(1\).svg");
-    min-width: .2rem;
-} */
+.navbar-toggler-icon {
+    background-image: url("images/menu.svg");
+}
 
 .btn{
     background-color: var(--my-primary);
