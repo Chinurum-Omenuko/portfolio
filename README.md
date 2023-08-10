@@ -23,4 +23,5 @@ Overall, i have learned how to decompose problems and obstacles into smaller tas
 ## List of resources used
 - Bootstrap Navbar and Footer
 - SVG camera logo and hamburger menu
+- Animate on scroll library
 
