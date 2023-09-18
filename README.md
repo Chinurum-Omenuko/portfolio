@@ -1,3 +1,6 @@
+LINK TO WEBSITE:
+https://chinurum-omenuko.github.io/portfolio/index.html
+
 # Challenges i faced during Development
 Working on this portfolio, i faced challenges that i felt i would prevent me from succeding in delivering a quality and workable site such as this.
 Some problems i faced were:
